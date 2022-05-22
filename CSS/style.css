@@ -1,0 +1,25 @@
+.btn-2{
+    width: fit-content;
+    margin-left: 30%;
+    margin-top: 30px;
+
+}
+#carouselExampleIndicators{
+    height: 500px;
+}
+
+.button-pos{
+    top: auto;
+    bottom: 60px;
+}
+
+
+
+@media screen and (max-width: 780px) {
+    .img-change img{
+        height: 150px;
+    }
+    .button-pos {
+        bottom: 10px;
+    }
+  }
